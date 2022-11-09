@@ -6,3 +6,4 @@ Important point to note this car does not use the ODB2 CANBUS standards and does
 the power train CANBUS can be tapped from the Green connector at the back of the dash pod pin 18 CAN HI, pin 19 CAN LOW.
 The MAP (4 BAR) & Temperature sensor used is a Bosch0 281 006 059  
 A video can be found here https://www.youtube.com/watch?v=-fjJu9AUhX8 
+In V1.6 the WM,PSI & IAT screens don't update correctly this rectified in V1.7.
