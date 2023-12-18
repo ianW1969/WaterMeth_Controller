@@ -7,4 +7,5 @@ the power train CANBUS can be tapped from the Green connector at the back of the
 The MAP (4 BAR) & Temperature sensor used is a Bosch0 281 006 059  
 A video can be found here https://www.youtube.com/watch?v=-fjJu9AUhX8 
 In V1.6 the WM,PSI & IAT screens don't update correctly this rectified in V1.7.
+
 See Tag Version_2.2 for latested working version with Gerber & 3D printing files.
